@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Normalization Exercises", "Normalization Exercises\Normalization Exercises.ssmssqlproj", "{1EA89243-0FB4-40AA-8D8D-E827FADAC81B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EA89243-0FB4-40AA-8D8D-E827FADAC81B}.Default|Default.ActiveCfg = Default
+		{43667F19-F3CE-4D63-85E9-B5CC864E8837}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9FEB5CA-614A-4B2E-8095-DA1333DE2159}
+	EndGlobalSection
+EndGlobal
